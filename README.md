@@ -1,4 +1,1 @@
-
-![Build Status](https://gitlab.com/pages/plain-html/badges/master/build.svg)
-
----
+#The Time Project
