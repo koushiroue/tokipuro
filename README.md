@@ -5,4 +5,4 @@ The project uses plain-html as a base.
 
 ## For the plans and to-dos on the actual project
 
-see (https:/gitlab.com/evilz/temporal-nyaki)
+see [the real thing](https:/gitlab.com/evilz/temporal-nyaki)
