@@ -5,13 +5,14 @@ body {
 }
 
 .navbar {
+  color: #111111;
   background-color: #7f7f7f;
   border-radius: 4px;
   max-width: 1920px;
 }
 
 .navbar a {
-  color: #333333;
+  color: #aaa;
   display: inline-block;
   font-size: 15px;
   padding: 10px;
