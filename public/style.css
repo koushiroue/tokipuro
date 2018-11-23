@@ -1,12 +1,15 @@
+/*Background/Back-End Stuff goes here*/
 body {
-  background-color: #dddddd;
+  background-image: url("assets/bg_tile_16.png");
+  background-repeat: repeat;
+  background-attachment: fixed;
   font-family: sans-serif,arial;
   margin: auto;
   max-width: 1280px;
 
 }
 
-
+/* Navigation Bar*/
 .navbar {
   color: #111111;
   background-color: #7f7f7f;
@@ -14,6 +17,7 @@ body {
   max-width: 1920px;
 }
 
+/* Navigation Bar's Text*/
 .navbar a {
   display: inline-block;
   color: #111111;
@@ -22,6 +26,7 @@ body {
   text-decoration: none;
 }
 
+/* Navigation Bar's Text When Hovered*/
 .navbar a:hover {
   color: #fefefe;
 }
