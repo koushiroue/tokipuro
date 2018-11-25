@@ -3,7 +3,6 @@ body {
   background-image: url("assets/bg_tile_16.png");
   background-repeat: repeat;
   background-attachment: scroll;
-  font-family: sans-serif,arial;
   margin: auto;
   max-width: 1280px;
 }
