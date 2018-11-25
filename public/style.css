@@ -10,7 +10,7 @@ body {
 
 /* Quote*/
 .quote {
-  color: #7f7f7f
+  color: #00000052;
 }
 
 /* Navigation Bar*/
@@ -35,8 +35,14 @@ body {
   color: #fefefe;
 }
 
-/* Paragraph Indentation*/
+/* Dialogue Indentation*/
 .indented {
     padding-left: 50pt;
     padding-right: 50pt;
+}
+
+/* Paragraph Margin*/
+.paragraph {
+  text-align: left;
+  text-anchor: start;
 }
