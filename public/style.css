@@ -2,7 +2,7 @@
 body {
   background-image: url("assets/bg_tile_32.png");
   background-repeat: repeat;
-  background-attachment: fixed;
+  background-attachment: local;
   margin: auto;
   max-width: 960px;
   overflow: hidden;
