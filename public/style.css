@@ -4,7 +4,7 @@ body {
   background-repeat: repeat;
   background-attachment: fixed;
   margin: auto;
-  max-width: 1280px;
+  max-width: 960px;
   overflow: hidden;
 }
 
@@ -18,21 +18,21 @@ body {
   color: #111111;
   background-color: #7f7f7f;
   border-radius: 12px;
-  max-width: 1280px;
+  max-width: 960px;
 }
 
 /* Navigation Bar's Text*/
 .navbar a {
   display: inline-block;
-  color: #111111;
-  font-size: 15px;
+  color: #303030;
+  font-size: 16px;
   padding: 10px;
   text-decoration: none;
 }
 
 /* Navigation Bar's Text When Hovered*/
 .navbar a:hover {
-  color: #fefefe;
+  color: #dbdbdb;
 }
 
 /* Dialogue Indentation*/
