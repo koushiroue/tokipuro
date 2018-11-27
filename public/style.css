@@ -3,6 +3,7 @@ body {
   background-attachment: fixed;
   background-image: url("assets/bg_tile_64.png");
   background-repeat: repeat;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: auto;
   max-width: 960px;
 }
