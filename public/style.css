@@ -1,7 +1,7 @@
 /*Background/Back-End Stuff goes here*/
 body {
   background-attachment: fixed;
-  background-image: url("assets/bg_tile_32.png");
+  background-image: url("assets/bg_tile_64.png");
   background-repeat: repeat;
   margin: auto;
   max-width: 960px;
