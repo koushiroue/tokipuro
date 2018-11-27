@@ -94,3 +94,8 @@ body {
  transform: translateX(-100%); 
  }
 }
+
+/* Shadow*/
+.shadow{
+  background-color: rgba(0, 0, 0, 0.125)
+}
